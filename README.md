@@ -7,4 +7,6 @@ Mongo Schema && Models
 ## Route 
 Express API
 
+## Public 
+React and frontend
 
